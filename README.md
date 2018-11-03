@@ -1,8 +1,5 @@
 # findAnyoneOrCreate
 
-![Issues](https://img.shields.io/github/issues/fabiospampinato/mongoose-findanyoneorcreate.svg)
-[![NPM version](https://img.shields.io/npm/v/mongoose-findanyoneorcreate.svg)](https://www.npmjs.com/package/mongoose-findanyoneorcreate)
-
 Promise-based plugin for Mongoose that defines a "findAnyoneOrCreate" static method.
 
 Useful for finding a document, with support for creating it if doesn't exist already.
