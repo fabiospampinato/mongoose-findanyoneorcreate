@@ -13,4 +13,4 @@ function findAnyoneOrCreate ( schema ) {
 
 /* EXPORT */
 
-export = Object.assign ( findAnyoneOrCreate, { default: findAnyoneOrCreate } );
+export default findAnyoneOrCreate;
